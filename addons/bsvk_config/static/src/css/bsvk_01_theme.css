@@ -91,7 +91,6 @@ main .container {
     max-width: 1024px;
 }
 /* Media width fixes */
-/* TODO: change and understand max container sizes: http://getbootstrap.com/customize/#container-sizes */
 
 @media (min-width: 773px) {
     .container {
